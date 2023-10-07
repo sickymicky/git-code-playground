@@ -1,2 +1,2 @@
 console.log('JS loaded')
-console.log('hello world!')
+console.log('Hello World!')
